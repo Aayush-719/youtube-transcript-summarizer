@@ -82,7 +82,7 @@
 
 # ```bash
 
-# git clone YOUR\_GITHUB\_REPOSITORY\_URL
+# git clone https://github.com/Aayush-719/youtube-transcript-summarizer.git
 
 # ```
 
